@@ -16,6 +16,7 @@ Material
 Ferramentas
 
 - https://www.mycompiler.io/pt
+- https://www.mycompiler.io/pt/new/java
 - https://excalidraw.com/
 
 Videos
@@ -24,4 +25,9 @@ Videos
 
 Referências
 
-- 
+- https://linuxtips.io/
+- https://linuxtips.io/treinamentos-essentials/
+- https://code.visualstudio.com/docs/java/java-tutorial
+- https://code.visualstudio.com/docs/languages/java
+- https://docs.oracle.com/en/java/javase/21/install/installation-jdk-microsoft-windows-platforms.html
+- https://pt.sourcetrail.com/Java/instalar-java-em-wsl2/
