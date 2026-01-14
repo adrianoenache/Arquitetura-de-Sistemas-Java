@@ -16,10 +16,12 @@ Este repositório contém estudos sobre **arquitetura de sistemas** utilizando *
 
 ### 🛠️ Ferramentas
 
-- [MyCompiler](https://www.mycompiler.io/pt)
-- [MyCompiler - Nova Janela Java](https://www.mycompiler.io/pt/new/java)
-- [Excalidraw](https://excalidraw.com/)
-- [Spring Boot Initializer](https://start.spring.io/)
+- [MyCompiler](https://www.mycompiler.io/pt) - Compilador online
+- [MyCompiler - Nova Janela Java](https://www.mycompiler.io/pt/new/java) - Ambiente isolado para Java
+- [Excalidraw](https://excalidraw.com/) - Desenho de diagramas
+- [Spring Boot Initializer](https://start.spring.io/) - Configuração de projetos Spring
+- [Docker](https://www.docker.com/) - Containerização
+- [Podman](https://podman.io/) - Alternativa sem daemon ao Docker
 
 ### 🎥 Vídeos
 
