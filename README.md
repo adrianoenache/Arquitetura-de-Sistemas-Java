@@ -28,6 +28,7 @@ Este repositório contém estudos sobre **arquitetura de sistemas** utilizando *
 ### 📋 Referências
 
 - [AWS SDK para Java](https://docs.aws.amazon.com/sdk-for-java/)
+- [Banco de Dados - Java](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-database)
 - [Design Patterns MVC em Java](https://java-design-patterns.com/patterns/model-view-controller/)
 - [Dev Java - Learn](https://dev.java/learn/)
 - [Documentação de Java - Visual Studio Code](https://code.visualstudio.com/docs/languages/java)
@@ -37,6 +38,7 @@ Este repositório contém estudos sobre **arquitetura de sistemas** utilizando *
 - [Instalação do JDK no Windows - Oracle](https://docs.oracle.com/en/java/javase/21/install/installation-jdk-microsoft-windows-platforms.html)
 - [Java Oficial](https://www.java.com/pt-BR/)
 - [Linux Tips](https://linuxtips.io/)
+- [Maven - Guias](https://maven.apache.org/guides/)
 - [MVC com Java](https://www.javaspring.net/blog/mvc-with-java/)
 - [OpenJDK 21 DevDocs](https://devdocs.io/openjdk~21/)
 - [Repositório OpenJDK GitHub](https://github.com/openjdk)
@@ -50,7 +52,7 @@ Este repositório contém estudos sobre **arquitetura de sistemas** utilizando *
 
 ## 🖥️ Setup Windows WSL2
 
-Links para os guias de instalação dos itens necessários:
+Links para os guias de instalação dos itens necessários.
 
 ### Dependências Principais
 
@@ -63,26 +65,30 @@ Links para os guias de instalação dos itens necessários:
 ### Configuração de Git
 
 - [Configuração de Git](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
-- Configuração de acesso SSH:
-  - [Guia GitBook](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key)
-  - [GitLab - ED25519 SSH Keys](https://docs.gitlab.com/ee/user/ssh.html#ed25519-ssh-keys)
-  - [GitHub - Gerar chave SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-  - [Bitbucket - Configurar chave SSH](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
 
-### Banco de Dados
+#### Configuração de Acesso SSH
 
-> **Nota:** Este item é opcional, uma vez que os projetos têm o banco de dados instalado no container do Docker.
-
-- [Bancos de dados](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-database) no WSL2
+- [Guia GitBook](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key)
+- [GitLab - ED25519 SSH Keys](https://docs.gitlab.com/ee/user/ssh.html#ed25519-ssh-keys)
+- [GitHub - Gerar chave SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [Bitbucket - Configurar chave SSH](https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/)
 
 ---
 
-## 💻 Hello World
+## 💻 Exemplos Práticos
+
+### Hello World
 
 ![Hello World](assets/HelloWorld.png)
 
-## Setup no spring Initialz
+### Setup no Spring Initializer
 
-Baixe o [ZIP](assets/delivery-api.zip) ou faça a sua congiguração no [Spring Boot Initializer](https://start.spring.io/).
+Você pode baixar o arquivo pré-configurado ou fazer sua configuração no [Spring Boot Initializer](https://start.spring.io/).
 
-![Setup no spring Initialz](assets/springinializr.png)
+[Download ZIP](assets/delivery-api.zip)
+
+![Setup no Spring Initializer](assets/springinializr.png)
+
+### Configuração Maven
+
+![Configuração Maven](assets/maven.png)
