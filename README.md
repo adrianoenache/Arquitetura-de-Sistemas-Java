@@ -78,6 +78,7 @@ Links para os guias de instalação dos itens necessários.
 - [Dev Java - Learn](https://dev.java/learn/)
 - [Linux Tips](https://linuxtips.io/)
 - [Treinamentos Essentials - Linux Tips](https://linuxtips.io/treinamentos-essentials/)
+- [Java: o que é, linguagem e um Guia para iniciar na tecnologia](https://www.alura.com.br/artigos/java)
 
 ### Materiais de Referência
 
@@ -94,6 +95,7 @@ Links para os guias de instalação dos itens necessários.
 
 - [W3Schools - Java Reference](https://www.w3schools.com/java/java_ref_reference.asp)
 - [Wikipedia - Java (linguagem de programação)](https://en.wikipedia.org/wiki/Java_(programming_language))
+- [Naming Conventions](https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html)
 
 #### Padrões de Projeto
 
