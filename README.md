@@ -42,7 +42,7 @@ Links para os guias de instalação dos itens necessários.
 - [Docker](https://docs.docker.com/install/), [guia de instalação no WSL2](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-containers)
 - IDE recomendada [VSCode](https://code.visualstudio.com/Download)
 - [Git](https://git-scm.com/download/linux) última versão estável
-  - [Configure](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) seu usuário 
+  - [Configure](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) seu usuário
     - Configure seu acesso SSH
       - [GitBook](https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key)
         - [GitLab](https://docs.gitlab.com/ee/user/ssh.html#ed25519-ssh-keys)
@@ -52,3 +52,7 @@ Links para os guias de instalação dos itens necessários.
 Este item é opcional, uma vez que os projetos tem o banco de dados instalado no container do Docker.
 
 - [Bancos de dados](https://learn.microsoft.com/pt-br/windows/wsl/tutorials/wsl-database) no WSL2
+
+# Hello World
+
+![Hello World](HelloWorld.png)
