@@ -1,6 +1,6 @@
 # Arquitetura de Sistemas Java
 
-Este repositório contém estudos sobre **arquitetura de sistemas** utilizando **Java**, incluindo exemplos práticos, referências e recursos educacionais.
+Este repositório contém estudos sobre **arquitetura de sistemas** utilizando **Java**, incluindo exemplos práticos, referências e recursos educacionais. [Repositório dos exercicios](https://github.com/adrianoenache/delivery-api-adrianoenache).
 
 ---
 
