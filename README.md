@@ -102,6 +102,10 @@ Links para os guias de instalação dos itens necessários.
 - [Design Patterns MVC em Java](https://java-design-patterns.com/patterns/model-view-controller/)
 - [MVC com Java](https://www.javaspring.net/blog/mvc-with-java/)
 
+#### Conceritos
+
+- [Os 4 pilares da Programação Orientada a Objetos](https://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264)
+
 #### Serviços em Nuvem
 
 - [AWS SDK para Java](https://docs.aws.amazon.com/sdk-for-java/)
