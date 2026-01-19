@@ -141,4 +141,8 @@ URL do repositório [https://github.com/adrianoenache/delivery-api-adrianoenache
 
 ![Configuração do Git e GitHub](assets/config-git.png)
 
+### Configuração da aplicação
+
+![Configuração da aplicação](assets/app-config.png)
+
 ---
