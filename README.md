@@ -135,4 +135,10 @@ Você pode baixar o arquivo pré-configurado ou fazer sua própria configuraçã
 
 ![Podman & Docker](assets/podman-docker.png)
 
+### Configuração do Git e GitHub
+
+URL do repositório [https://github.com/adrianoenache/delivery-api-adrianoenache](https://github.com/adrianoenache/delivery-api-adrianoenache)
+
+![Configuração do Git e GitHub](assets/config-git.png)
+
 ---
