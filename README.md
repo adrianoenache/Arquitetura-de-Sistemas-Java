@@ -89,6 +89,9 @@ Links para os guias de instalação dos itens necessários.
 
 - [Arquitetura de Sistemas Java - YouTube](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
 - [Lucas Dicas Java](https://www.youtube.com/@lucasdicasjava/playlists)
+- [Java](https://www.youtube.com/@java/playlists)
+- [Spring Framework (O Salvador do Java) // Dicionário do Programador](https://www.youtube.com/watch?v=j_F0cz0em04)
+- [Java para Iniciantes: Um Guia Fácil e Prático + Materiais de Estudo](https://www.youtube.com/watch?v=7dhIdVb6y1s)
 
 ### Documentação de Referência
 
