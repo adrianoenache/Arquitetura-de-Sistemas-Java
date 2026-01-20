@@ -145,4 +145,8 @@ URL do repositório [https://github.com/adrianoenache/delivery-api-adrianoenache
 
 ![Configuração da aplicação](assets/app-config.png)
 
+### Teste e Validação
+
+![Teste e Validação](assets/test-and-validation.png)
+
 ---
