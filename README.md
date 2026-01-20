@@ -88,6 +88,7 @@ Links para os guias de instalação dos itens necessários.
 ### Vídeos Educacionais
 
 - [Arquitetura de Sistemas Java - YouTube](https://www.youtube.com/watch?v=m4-HM_sCvtQ)
+- [Lucas Dicas Java](https://www.youtube.com/@lucasdicasjava/playlists)
 
 ### Documentação de Referência
 
