@@ -84,6 +84,8 @@ Links para os guias de instalação dos itens necessários.
 
 - [Notion - Arquitetura de Sistemas Java](https://www.notion.so/T1-2601-Arquitetura-de-Sistemas-Java-2e66c869dff28176aeeff1989bb13e54)
 - [Repositório GitHub - Delivery Tech](https://github.com/andersonbuenos/delivery-tech)
+- [Aula de nivelamento POO](https://github.com/andersonbuenoso/controle-estoque/tree/main)
+- [Exemplo de SQL](https://www.mycompiler.io/view/7sfmRb8j5PJ)
 
 ### Vídeos Educacionais
 
