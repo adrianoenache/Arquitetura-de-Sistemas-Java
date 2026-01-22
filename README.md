@@ -79,6 +79,7 @@ Links para os guias de instalação dos itens necessários.
 - [Linux Tips](https://linuxtips.io/)
 - [Treinamentos Essentials - Linux Tips](https://linuxtips.io/treinamentos-essentials/)
 - [Java: o que é, linguagem e um Guia para iniciar na tecnologia](https://www.alura.com.br/artigos/java)
+- [Coddy Tech](https://coddy.tech/)
 
 ### Materiais de Referência
 
