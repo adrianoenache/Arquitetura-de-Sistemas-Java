@@ -108,6 +108,8 @@ Links para os guias de instalação dos itens necessários.
 - [Java Cheat Sheets - CodeCademy](https://www.codecademy.com/resources/cheatsheets/language/java)
 - [Model View Controller (MVC) with Java](https://www.javaspring.net/blog/mvc-with-java/)
 - [Object Oriented Programming (OOP)](https://www.w3schools.com/java/java_oop.asp)
+- [Java OOP(Object Oriented Programming) Concepts](https://www.geeksforgeeks.org/java/object-oriented-programming-oops-concept-in-java/)
+- [Princípios de programação orientada a objetos em Java: Conceitos de POO para iniciantes](https://www.freecodecamp.org/portuguese/news/principios-de-programacao-orientada-a-objetos-em-java-conceitos-de-poo-para-iniciantes/)
 
 #### Padrões de Projeto
 
