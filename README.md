@@ -66,6 +66,8 @@ Links para os guias de instalação dos itens necessários.
 - [MyCompiler](https://www.mycompiler.io/pt) - Compilador online
 - [MyCompiler - Nova Janela Java](https://www.mycompiler.io/pt/new/java) - Ambiente isolado para Java
 - [Excalidraw](https://excalidraw.com/) - Desenho de diagramas e arquiteturas
+- [Visual Paradigm](https://online.visual-paradigm.com/)
+- [Lucid Chart](https://www.lucidchart.com/pages)
 
 ---
 
@@ -87,6 +89,7 @@ Links para os guias de instalação dos itens necessários.
 - [Repositório GitHub - Delivery Tech](https://github.com/andersonbuenos/delivery-tech)
 - [Aula de nivelamento POO](https://github.com/andersonbuenoso/controle-estoque/tree/main)
 - [Exemplo de SQL](https://www.mycompiler.io/view/7sfmRb8j5PJ)
+- [UML Class Diagram Tutorial](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 
 ### Vídeos Educacionais
 
@@ -98,6 +101,10 @@ Links para os guias de instalação dos itens necessários.
 - [iFood Clone](https://www.youtube.com/playlist?list=PLs-l5bSgIMhBDOtatiLQXeNarcdeaekZI)
 - [Arquitetura de Software](https://www.youtube.com/playlist?list=PLs-l5bSgIMhA8gBgilmf-urm2Fuixco5g)
 - [Padrões de Projeto (Design Patterns)](https://www.youtube.com/playlist?list=PLs-l5bSgIMhCNygh48y6SKArszuLPW4q5)
+- [Creating Class Diagrams with Visual Paradigm & Lucidchart | Object-Oriented Design Example](https://www.youtube.com/watch?v=Ct3AaTIjS-c)
+- [UML Diagrams Full Course (Unified Modeling Language)](https://www.youtube.com/watch?v=WnMQ8HlmeXc)
+- [UML Diagrams for Beginners](https://www.youtube.com/playlist?list=PLJlDQmEdjHZYrtdwL0SHZseRSp_F0oOPN)
+- [UML Diagrams Full Course](https://www.youtube.com/playlist?list=PLiD_of4B7akEReTIqbNGdi05XnfbzfQ1x)
 
 ### Documentação de Referência
 
