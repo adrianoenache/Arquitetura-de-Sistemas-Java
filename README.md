@@ -95,6 +95,9 @@ Links para os guias de instalação dos itens necessários.
 - [Java](https://www.youtube.com/@java/playlists)
 - [Spring Framework (O Salvador do Java) // Dicionário do Programador](https://www.youtube.com/watch?v=j_F0cz0em04)
 - [Java para Iniciantes: Um Guia Fácil e Prático + Materiais de Estudo](https://www.youtube.com/watch?v=7dhIdVb6y1s)
+- [iFood Clone](https://www.youtube.com/playlist?list=PLs-l5bSgIMhBDOtatiLQXeNarcdeaekZI)
+- [Arquitetura de Software](https://www.youtube.com/playlist?list=PLs-l5bSgIMhA8gBgilmf-urm2Fuixco5g)
+- [Padrões de Projeto (Design Patterns)](https://www.youtube.com/playlist?list=PLs-l5bSgIMhCNygh48y6SKArszuLPW4q5)
 
 ### Documentação de Referência
 
