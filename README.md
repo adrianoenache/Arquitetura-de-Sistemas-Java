@@ -106,6 +106,8 @@ Links para os guias de instalação dos itens necessários.
 - [Java Cheat Sheet - Geeks for Geeks](https://www.geeksforgeeks.org/java/java-cheat-sheet/)
 - [Java Quick Reference](https://quickref.me/java.html)
 - [Java Cheat Sheets - CodeCademy](https://www.codecademy.com/resources/cheatsheets/language/java)
+- [Model View Controller (MVC) with Java](https://www.javaspring.net/blog/mvc-with-java/)
+- [Object Oriented Programming (OOP)](https://www.w3schools.com/java/java_oop.asp)
 
 #### Padrões de Projeto
 
